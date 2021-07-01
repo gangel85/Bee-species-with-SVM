@@ -1,2 +1,4 @@
 # Bee-species-with-SVM
-Identify the bee species by using Support Vector Machine. 
+Identify between honey bees (Apis) and bumble bees (Bombus)   by using Support Vector Machine. 
+
+
